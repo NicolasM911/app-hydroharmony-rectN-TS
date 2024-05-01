@@ -32,6 +32,14 @@ const App = () => {
             title: 'Nuevo Usuario',
           }}
         />
+        {/* <Stack.Screen
+          name="ProfileScreen"
+          component={RegisterScreen}
+          options={{
+            headerShown: true,
+            title: 'Nuevo Usuario',
+          }}
+        /> */}
       </Stack.Navigator>
     </NavigationContainer>
   );
