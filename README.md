@@ -2,7 +2,7 @@
 
 El repositorio para la aplicación Hydrohaymony IoT es un proyecto que utiliza Internet de las Cosas (IoT). 
 Esta aplicación está siendo desarrollada con React Native con el objetivo de proporcionar una interfaz móvil 
-que permita al usuario controlar un sistema de riego y monitorear variables ambientalesa través de un dashboard.
+que permita al usuario controlar un sistema de riego y monitorear variables ambientales a través de un dashboard.
 
 **Características principales:**
 
